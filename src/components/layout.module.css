@@ -4,17 +4,26 @@
     font-family: sans-serif;
 }
 
+.site-title {
+    font-size: 1.5rem;
+    color: rgb(23, 57, 83);
+    font-weight: 700;
+}
+
 .heading {
     color: rebeccapurple;
-  }
-  .nav-links {
+}
+
+.nav-links {
     display: flex;
     list-style: none;
     padding-left: 0;
-  }
-  .nav-link-item {
+}
+
+.nav-link-item {
     padding-right: 2rem;
-  }
-  .nav-link-text {
+}
+
+.nav-link-text {
     color: black;
-  }
+}
