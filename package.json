@@ -20,7 +20,7 @@
     "gatsby": "^3.9.0",
     "gatsby-plugin-gatsby-cloud": "^2.9.0",
     "gatsby-plugin-image": "^1.10.0",
-    "gatsby-plugin-mdx": "^2.9.0",
+    "gatsby-plugin-mdx": "^2.10.0",
     "gatsby-plugin-sharp": "^3.10.0",
     "gatsby-source-filesystem": "^3.10.0",
     "gatsby-transformer-sharp": "^3.9.0",
